@@ -119,7 +119,7 @@ def build_song_list(songs):
     # http://forum.kodi.tv/showthread.php?tid=209948&pid=2094170#pid2094170
     xbmcplugin.addDirectoryItems(addon_handle, song_list, len(song_list))
     # set the content of the directory
-    xbmcplugin.setContent(addon_handle, 'songs')
+    xbmcplugin.setContent(addon_handle, 'audio')
     xbmcplugin.endOfDirectory(addon_handle)
     
 def play_song(url):
