@@ -1,0 +1,2 @@
+0.1.0 - (Alpha) Provides basic functionality for search (Suche) and livestream.
+0.2.0 - (Alpha) Provides basic functionality for program list (Sendungen) and today's shows (Heutiges Programm). Added plugin icon, fanart, and license.
